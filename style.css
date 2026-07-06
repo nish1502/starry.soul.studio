@@ -1051,6 +1051,8 @@ footer {
 .footer-contact-icon {
   color: var(--accent);
   font-size: 1rem;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .footer-bottom {
