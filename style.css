@@ -286,29 +286,11 @@ a, button, .gallery-item, .instagram-card, .scroll-indicator {
   text-align: left;
 }
 
-.hero-logo-box {
-  font-family: var(--font-heading);
-  color: var(--text-light);
-  line-height: 0.95;
+.hero-logo-image {
+  max-width: 280px;
+  height: auto;
   margin-bottom: 24px;
-  display: flex;
-  flex-direction: column;
-}
-
-.hero-logo-line {
-  font-size: 3.5rem;
-  font-weight: 800;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-}
-
-.hero-logo-star {
-  color: var(--accent);
-  display: inline-block;
-  font-size: 3.2rem;
-  margin-left: 6px;
-  vertical-align: middle;
-  animation: spinStar 16s linear infinite;
+  display: block;
 }
 
 .hero-tagline {
