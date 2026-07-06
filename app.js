@@ -16,6 +16,26 @@ const GALLERY_DATA = [
     image: "/assets/bear_picnic_dish.jpg",
     title: "teddy bear picnic dish",
     desc: "a whimsical hand-formed clay jewelry plate featuring a tiny teddy bear sitting on a checkered pink picnic blanket next to miniature chocolate donuts and a frosted cake. sealed with a durable gloss coat. size: 4.5 inches."
+  },
+  {
+    image: "/assets/PHOTO-2026-07-06-15-18-31.jpg",
+    title: "snoopy & egg keychain",
+    desc: "a delightful hand-sculpted clay snoopy wearing a red collar, coupled with a sunny-side-up egg charm. finished in high-gloss UV resin and attached to a gold-tone key clasp."
+  },
+  {
+    image: "/assets/PHOTO-2026-07-06-15-39-53 2.jpg",
+    title: "capybara & tomato keychain",
+    desc: "a cozy, hand-formed clay capybara paired with a tiny red tomato charm. glazed with a high-shine protective coat and equipped with a heavy-duty gold keyring clip."
+  },
+  {
+    image: "/assets/PHOTO-2026-07-06-15-39-53.jpg",
+    title: "french fries & drumstick magnets",
+    desc: "a smiling pair of clay magnets shaped like classic french fries in a red cup and a brown chicken drumstick. hand-painted and sealed with glossy glaze. size: 1.8 inches."
+  },
+  {
+    image: "/assets/PHOTO-2026-07-06-15-39-54.jpg",
+    title: "woven macrame keychain",
+    desc: "a chevron-patterned friendship keychain woven carefully with soft blue, yellow, and green cotton threads. perfect accessory for bags and keyrings."
   }
 ];
 
