@@ -287,7 +287,8 @@ a, button, .gallery-item, .instagram-card, .scroll-indicator {
 }
 
 .hero-logo-image {
-  max-width: 280px;
+  max-width: 400px;
+  width: 100%;
   height: auto;
   margin-bottom: 24px;
   display: block;
