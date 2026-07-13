@@ -36,6 +36,16 @@ const GALLERY_DATA = [
     image: "/assets/PHOTO-2026-07-06-15-39-54.jpg",
     title: "woven macrame keychain",
     desc: "a chevron-patterned friendship keychain woven carefully with soft blue, yellow, and green cotton threads. perfect accessory for bags and keyrings."
+  },
+  {
+    image: "/assets/keychain1.jpg",
+    title: "pawprint & clover keychain",
+    desc: "a triple-charm gold keychain featuring a hand-sculpted white and pink puppy pawprint, a bright pink bow, and a lucky green four-leaf clover charm. finished in a high-gloss protective glaze."
+  },
+  {
+    image: "/assets/keychain2.jpg",
+    title: "star & sunflower keychain",
+    desc: "a whimsical four-charm keychain with a glittering deep blue planet, a light blue star custom-painted with 'Egg', a glossy orange citrus slice, and a vibrant yellow sunflower charm."
   }
 ];
 

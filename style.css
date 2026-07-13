@@ -708,6 +708,8 @@ a, button, .gallery-item, .instagram-card, .scroll-indicator {
 .gallery-item:nth-child(5) { transform: rotate(-1.2deg); }
 .gallery-item:nth-child(6) { transform: rotate(1.6deg); }
 .gallery-item:nth-child(7) { transform: rotate(-1.5deg); }
+.gallery-item:nth-child(8) { transform: rotate(1.3deg); }
+.gallery-item:nth-child(9) { transform: rotate(-1.1deg); }
 
 .gallery-item:hover {
   transform: rotate(0deg) translateY(-8px) scale(1.03);
